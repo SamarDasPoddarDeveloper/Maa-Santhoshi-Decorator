@@ -2698,7 +2698,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   line-height: 2;
   color: black;
 }
-
+.about-right p {
+  margin-bottom: 20px;
+  line-height: 2;
+  color: black;
+}
 .home-about-area .about-right .primary-btn {
   color: #222;
   border: 1px solid transparent;
